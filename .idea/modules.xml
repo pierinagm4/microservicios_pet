@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/customer/customer.iml" filepath="$PROJECT_DIR$/customer/customer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/employee/employee.iml" filepath="$PROJECT_DIR$/employee/employee.iml" />
+      <module fileurl="file://$PROJECT_DIR$/eureka/eureka.iml" filepath="$PROJECT_DIR$/eureka/eureka.iml" />
+      <module fileurl="file://$PROJECT_DIR$/gateway/gateway.iml" filepath="$PROJECT_DIR$/gateway/gateway.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/microservicios_pierina.iml" filepath="$PROJECT_DIR$/.idea/microservicios_pierina.iml" />
+      <module fileurl="file://$PROJECT_DIR$/pet/pet.iml" filepath="$PROJECT_DIR$/pet/pet.iml" />
+      <module fileurl="file://$PROJECT_DIR$/schedule/schedule.iml" filepath="$PROJECT_DIR$/schedule/schedule.iml" />
+    </modules>
+  </component>
+</project>
